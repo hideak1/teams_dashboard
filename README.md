@@ -22,6 +22,8 @@ When you use Claude Code's team/swarm features to coordinate multiple agents, th
 - **Dark Theme** — Easy on the eyes during long coding sessions
 
 ## Demo
+![Kapture 2026-03-04 at 01 01 47](https://github.com/user-attachments/assets/89712824-28e2-4a6a-98eb-9bfd07f0f913)
+
 
 
 ## How It Works
